@@ -11,9 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-<<<<<<< HEAD
-=======
-
 
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
@@ -65,4 +62,4 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
->>>>>>> Initialize project using Create React App
+
